@@ -1,0 +1,29 @@
+body {
+    font-family: 'Open Sans', sans-serif;
+    background: #101D42;
+    color: #89D2DC;
+}
+
+.header {
+    background: #0D1317;
+    padding: 20px;
+    border-radius: 20px;
+    width: fit-content;
+    margin: 0 auto;
+}
+
+.nav {
+    background: #ffffff;
+    border-radius: 20px;
+    width: fit-content;
+    padding: 20px 80px;
+    margin-top: 20px;
+    color: #0D1317;
+}
+.nav ul {
+    padding: 0;
+    margin: 0;
+}
+.nav ul li {
+    list-style: none;
+}
